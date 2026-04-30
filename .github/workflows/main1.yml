@@ -24,3 +24,4 @@ jobs:
         run: |
           node scripts/createNewEthereumIdentity.js
           node scripts/manualLinkHumanToAgent.js --challenge '{"name": "peerless service", "description": "peerless work and precious delivery in Nigeria"}'
+  
