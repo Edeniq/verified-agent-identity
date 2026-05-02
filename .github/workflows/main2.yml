@@ -23,4 +23,4 @@ jobs:
       - name: Create Identity & Generate Reward Link
         run: |
           node scripts/createNewEthereumIdentity.js
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "peerless service", "description": "peerless work and precious delivery in Nigeria"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "peerless work", "description": "Nonpareil work and peerless production in Nigeria"}'
